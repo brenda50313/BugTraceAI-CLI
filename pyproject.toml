@@ -1,0 +1,5 @@
+[project]
+name = "bugtraceai-cli"
+version = "0.1.0"
+description = "Autonomous AI-powered security scanner — multi-agent vulnerability detection, exploitation, and validation engine"
+requires-python = ">=3.10"
